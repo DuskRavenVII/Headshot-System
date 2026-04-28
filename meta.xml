@@ -1,0 +1,10 @@
+<meta>
+    <info author="DuskRavenVII" name="Headshot System"
+        description="Headshot System For MTA" version="1.0"
+        type="script" protected="true" />
+    <script src="client.lua" type="client" cache="false" />
+    <script src="server.lua" type="server" cache="false" />
+    <file src="sound/headshot.mp3" />
+    <file src="images/headshot.png" />
+
+</meta>
